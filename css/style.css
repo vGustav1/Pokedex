@@ -1,0 +1,31 @@
+body {
+    background-color: #d6d6d6;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+
+}
+
+
+#pokedex {
+    width: 22rem;
+    height: 35rem;
+    background-color: rgb(116, 203, 72);
+    border-radius: 8px;
+    padding: 0.3rem;
+}
+
+#top {
+    height: 40%;
+    padding: 0.5rem;
+}
+
+#data {
+    background-color: white;
+    height: 60%;
+    border-radius: 8px;
+
+}
