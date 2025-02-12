@@ -1,6 +1,6 @@
 # Pokédex  
 
-Uma Pokédex interativa desenvolvida com **HTML, CSS e JavaScript**, consumindo dados da [PokéAPI](https://pokeapi.co/) para exibir informações sobre os Pokémon.
+Uma Pokédex interativa desenvolvida com **HTML, CSS e JavaScript**, consumindo dados da PokéAPI para exibir informações sobre os Pokémon.
 
 ![Pokedex Preview](https://raw.githubusercontent.com/seu-usuario/pokedex/main/preview.png)  
 
